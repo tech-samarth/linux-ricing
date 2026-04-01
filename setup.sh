@@ -6,7 +6,7 @@ echo "💀 Installing Samarth Cyber Terminal..."
 sudo apt update
 
 # Install base tools
-sudo apt install -y zsh git curl wget unzip cmatrix lolcat fastfetch fonts-powerline
+sudo apt install -y zsh git curl wget unzip cmatrix lolcat neofetch fonts-powerline
 
 # Install Oh My Zsh
 if [ ! -d "$HOME/.oh-my-zsh" ]; then
