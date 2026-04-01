@@ -145,7 +145,8 @@ echo "
 ███████║██║  ██║██║ ╚═╝ ██║██║  ██║██║  ██║   ██║   ██║  ██║
 ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
 " | lolcat
-
+# Credit line
+echo "        ⚡ Made by Samarth Sehrawat ⚡" | lolcat
 sleep 0.3
 
 neofetch
